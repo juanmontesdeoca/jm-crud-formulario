@@ -1,0 +1,79 @@
+.art{
+    width: 381px;
+    height: 274px;
+    top: 219px;
+    left: 101px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    margin: 5vw auto; 
+    padding: 10px;
+    gap: 0px;
+    opacity: 0px;
+    width: 70%; 
+    max-width: 250px;
+    height: auto; 
+    border: 1px solid rgba(229, 229, 229, 1);
+   
+}
+
+.art:hover{
+    background-color: rgba(225, 87, 92, 0.1); 
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px rgba(196, 8, 8, 0.2); /
+
+}
+.h2{
+    font-family: Helvetica Neue;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.52px;
+    text-align: left;
+    
+}
+.li{
+    list-style-type: none;
+}
+.span{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+
+}
+.span2{
+    font-family: Helvetica Neue;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.09px;
+    text-align: left;
+    
+}
+.span,.span2{
+    list-style: none;
+    display: block; 
+    margin-bottom: 10px; 
+  
+}
+
+.button_delete{
+  
+    border-width: 0px, 0px, 0px, 0px;
+
+    border-style: solid;
+    
+    border-color: rgb(22, 87, 143);
+    
+    
+}
+.button_edit{
+
+    border-width: 0px, 0px, 0px, 0px;
+
+    border-style: solid;
+    
+    border-color: rgb(21, 44, 190);
+    
+    
+}
